@@ -1,15 +1,15 @@
 
 var imgPlants = new Array();
 for(var i = 0; i < indexPlants.length; i++){
-	imgPlants.push(LoadImage('img/plants/' + indexPlants[i]));
+	imgPlants.push(LoadImage('img/Plants/' + indexPlants[i]));
 }
 var imgHerbivores = new Array();
 for(var i = 0; i < indexHerbivores.length; i++){
-	imgHerbivores.push(LoadImage('img/herbivores/' + indexHerbivores[i]));
+	imgHerbivores.push(LoadImage('img/Herbivores/' + indexHerbivores[i]));
 }
 var imgCarnivores = new Array();
 for(var i = 0; i < indexCarnivores.length; i++){
-	imgCarnivores.push(LoadImage('img/carnivores/' + indexCarnivores[i]));
+	imgCarnivores.push(LoadImage('img/Carnivores/' + indexCarnivores[i]));
 }
 
 function World(screen)
