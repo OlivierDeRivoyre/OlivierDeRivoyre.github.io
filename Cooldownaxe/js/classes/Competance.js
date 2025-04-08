@@ -1,4 +1,4 @@
-var img_noneIcon = LoadImage('sprites/none.png');
+var img_noneIcon = LoadImage('sprites/None.png');
 var img_pickIcon = LoadImage('sprites/pickicon.png');
 var img_arrowIcon = LoadImage('sprites/arrowicon.png');
 var img_multiarrowIcon = LoadImage('sprites/multiarrowicon.png');
